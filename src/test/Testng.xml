@@ -1,0 +1,8 @@
+<suite name="FinalProject Test Suite">
+    <test name="TestCases">
+        <classes>
+            <class name="TestCases.BTM148.BMT148ConfirMsj"/>
+            <class name="TestCases.BTM55.BMT55SessionExpiration"/>
+        </classes>
+    </test>
+</suite>
